@@ -1,3 +1,2 @@
-19th Aug - Python Day 1 
-         - Variables, Datatypes, Operators(basic), Comment, Reserved Keywork(basic), Getting input from user, typecasting, Index & Slicing
-         - File Name - Python Basic Variables.ipynb
+19th Aug - Python Day 1 - File Name - Python Basic Variables.ipynb
+20th Aug - Python Day 2 - File Name - Python Basic Datatype.ipynb
