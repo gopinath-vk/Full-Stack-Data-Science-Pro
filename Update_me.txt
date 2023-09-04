@@ -1,2 +1,0 @@
-19th Aug - Python Day 1 - File Name - Python Basic Variables.ipynb
-20th Aug - Python Day 2 - File Name - Python Basic Datatype.ipynb
